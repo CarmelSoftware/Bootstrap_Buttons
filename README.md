@@ -1,4 +1,4 @@
-# Bootstrap_Buttons
+# Bootstrap Buttons
 ##Demonstrating the use of Bootstrap Buttons 
 ####By Carmel Schvartzman
 
