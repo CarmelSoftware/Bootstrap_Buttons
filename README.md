@@ -20,8 +20,6 @@ This Bootstrap App code is the companion for the following Tutorial:
 
 <img border="0" height="500" src="http://1.bp.blogspot.com/-2UiSw6hvq4I/VWQjDTbH4nI/AAAAAAAAK8s/VMD8BCBo56s/s640/6.png" width="640" />
 
-
-
 </a>
 
 ###<a href="http://themvcclub.blogspot.com/"   target="_blank"  >The MVC Club</a>
